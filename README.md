@@ -10,14 +10,14 @@ ___
 `splash -t <THEME_NAME>`
 
 ### **Install**
-
-`git clone https://github.com/ItsTerm1n4l/Splash.git`
+___
+`git clone https://github.com/ItsTerm1n4l/Splash.git`   
 `cp -r ./Splash/ ~/.config/splash`    
 `sudo cp ./Splash/splash /usr/bin/`
 
 
 ### **Included Themes**
-
+___
 Blade  
 Bouquet  
 Catppuccin-frappe  
