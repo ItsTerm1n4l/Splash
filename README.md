@@ -1,60 +1,60 @@
 # Splash
 universal bash theme setter for most good Linux apps.  
 Set themes from a large collection of `.bash` colourschemes.
-
 ___
 
  ![screenshot with kanagawa theme](/assets/kanagawa.png)
-Usage
+___
+###**Usage**
 
 `splash -t <THEME_NAME>`
 
-### Install
+### **Install**
 `
-git clone https://github.com/ItsTerm1n4l/Splash.git
-cp -r ./Splash/ ~/.config/splash
+git clone https://github.com/ItsTerm1n4l/Splash.git  
+cp -r ./Splash/ ~/.config/splash  
 sudo cp ./Splash/splash /usr/bin/
 `
 
-#### Included Themes
+#### **Included Themes**
 
-Blade
-Bouquet
-Catppuccin-frappe
-Catppuccin-latte
-Catppuccin-macchiato
-Catppuccin-mocha
-Challenger-deep
-Cyberpunk
-Dark-pastels
-Dracula
-Elvish
-Embark
-Everforest
-Forest
-Groot
-Gruvbox
-Gruvbox-material
-Hack
-Kanagawa-storm
-Kanagawa-wave
-Manhattan
-Monokai
-Moonlight
-Nightfly
-Nord
-Nordic-night
-Pastel
-Poimandres
-Rose-pine
-Rose-pine-dawn
-Rose-pine-moon
-Slime
-Spark
-Tokyo-night
-Tokyo-storm
-Wave
-Zenburn
+Blade  
+Bouquet  
+Catppuccin-frappe  
+Catppuccin-latte  
+Catppuccin-macchiato  
+Catppuccin-mocha  
+Challenger-deep  
+Cyberpunk  
+Dark-pastels   
+Dracula  
+Elvish  
+Embark  
+Everforest  
+Forest  
+Groot  
+Gruvbox  
+Gruvbox-material  
+Hack  
+Kanagawa-storm  
+Kanagawa-wave  
+Manhattan  
+Monokai  
+Moonlight  
+Nightfly  
+Nord		
+Nordic-night		
+Pastel		
+Poimandres		
+Rose-pine		
+Rose-pine-dawn		
+Rose-pine-moon		
+Slime		
+Spark		
+Tokyo-night		
+Tokyo-storm		
+Wave  
+Zenburn  
 
 
 Thanks:
