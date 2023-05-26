@@ -1,11 +1,11 @@
 # Splash
-universal bash theme setter for most good Linux apps.  
+Universal bash theme setter for most good Linux apps.  
 Set themes from a large collection of `.bash` colourschemes.
 ___
 
  ![screenshot with kanagawa theme](/assets/kanagawa.png)
 ___
-###**Usage**
+## **Usage**
 
 `splash -t <THEME_NAME>`
 
@@ -16,7 +16,7 @@ cp -r ./Splash/ ~/.config/splash
 sudo cp ./Splash/splash /usr/bin/
 `
 
-#### **Included Themes**
+### **Included Themes**
 
 Blade  
 Bouquet  
