@@ -9,52 +9,53 @@ ___
 
 `splash -t <THEME_NAME>`
 
-### **Install**
-___
-`git clone https://github.com/ItsTerm1n4l/Splash.git`   
-`cp -r ./Splash/ ~/.config/splash`    
-`sudo cp ./Splash/splash /usr/bin/`
+### Install
 
+```
+git clone https://github.com/ItsTerm1n4l/Splash.git  
+cp -r ./Splash/ ~/.config/splash  
+sudo cp ./Splash/splash /usr/bin/  
+```
 
 ### **Included Themes**
 ___
-Blade  
-Bouquet  
-Catppuccin-frappe  
-Catppuccin-latte  
-Catppuccin-macchiato  
-Catppuccin-mocha  
-Challenger-deep  
-Cyberpunk  
-Dark-pastels   
-Dracula  
-Elvish  
-Embark  
-Everforest  
-Forest  
-Groot  
-Gruvbox  
-Gruvbox-material  
-Hack  
-Kanagawa-storm  
-Kanagawa-wave  
-Manhattan  
-Monokai  
-Moonlight  
-Nightfly  
-Nord		
-Nordic-night		
-Pastel		
-Poimandres		
-Rose-pine		
-Rose-pine-dawn		
-Rose-pine-moon		
-Slime		
-Spark		
-Tokyo-night		
-Tokyo-storm		
-Wave  
-Zenburn  
+>Blade  
+>Bouquet  
+>Catppuccin-frappe  
+>Catppuccin-latte  
+>Catppuccin-macchiato  
+>Catppuccin-mocha  
+>Challenger-deep  
+>Cyberpunk  
+>Dark-pastels   
+>Dracula  
+>Elvish  
+>Embark  
+>Everforest  
+>Forest  
+>Groot  
+>Gruvbox  
+>Gruvbox-material  
+>Hack  
+>Kanagawa-storm  
+>Kanagawa-wave  
+>Manhattan  
+>Monokai  
+>Moonlight  
+>Nightfly  
+>Nord		
+>Nordic-night		
+>Pastel		
+>Poimandres		
+>Rose-pine		
+>Rose-pine-dawn		
+>Rose-pine-moon		
+>Slime		
+>Spark		
+>Tokyo-night		
+>Tokyo-storm		
+>Wave  
+>Zenburn  
 
 
 Thanks:
